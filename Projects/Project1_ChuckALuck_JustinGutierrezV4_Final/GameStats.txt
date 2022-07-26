@@ -1,0 +1,6 @@
+You have played 30 games
+You have won 10 games
+You have lost 20 games
+
+You have won 33% of games
+You have lost 67% of games
